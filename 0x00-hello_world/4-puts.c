@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Entry point
+ * main - Aorogram that prints a line v
  *
  * Return: Always 0 (Success)
  */
