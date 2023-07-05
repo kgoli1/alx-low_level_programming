@@ -42,4 +42,3 @@ int check_pal(char *s, int i, int len)
         return (check_pal(s, i + 1, len - 1));
 }
 
-
